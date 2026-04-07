@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+output/csv/*.csv
+output/csv/*.xlsx
+output/charts/*.png
+.superpowers/
+node_modules/
