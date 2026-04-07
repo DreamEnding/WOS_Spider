@@ -1,0 +1,15 @@
+spider:
+  max_papers: 10000
+  wait_timeout: 5
+  pause_interval: 0.1
+  max_retries: 3
+  headless: false
+
+output:
+  dir: output/csv
+  charts_dir: output/charts
+  default_filename: result.csv
+
+server:
+  host: 127.0.0.1
+  port: 5000
